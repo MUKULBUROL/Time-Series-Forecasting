@@ -6,7 +6,6 @@ In this project we are a team of 3 people in which I have done AR Model part . <
 
 > BRIEF DESCRIPTION OF THE PROJECT:-
 <br>
-
 This repository contains MATLAB scripts for forecasting time series data using two different models:
 
 > Autoregressive (AR) Model
