@@ -6,13 +6,10 @@ In this project we are a team of 3 people in which I have done AR Model part . <
 
 > BRIEF DESCRIPTION OF THE PROJECT:-
 <br>
-This repository contains MATLAB scripts for forecasting time series data using two different models:
+This repository contains MATLAB Code which is stored in Forecast.m file, cluster data file from which we have taken the data for forecasting and also shared the screenshots of the output we got from our MATLAB code.
 
-> Autoregressive (AR) Model
 
-> Ordinary Differential Equation (ODE) Model
-
-**Overview-** <br>
+**Overview Of the code-** <br>
 
 The code provided demonstrates how to forecast time series data using both autoregressive and ODE models. The AR model is used for capturing and predicting temporal dependencies, while the ODE model is employed to model data with a continuous growth rate.
 
