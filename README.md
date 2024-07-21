@@ -1,6 +1,6 @@
 # Time Series Forecasting with AR and ODE Models
 <br>
-I have done this project under Prof. Lopa Mudra Giri in the **APPLIED MATHEMATICS COURSE** in my **3rd** SEMESTER. As a part of the course we have done various assignments and class tutorials on MATLAB.
+I have done this project under Prof. Lopa Mudra Giri in the APPLIED MATHEMATICS COURSE in my 3rd SEMESTER. As a part of the course we have done various assignments and class tutorials on MATLAB.
 <br>
 In this project we are a team of 3 people in which I have done AR Model part . <br>
 
